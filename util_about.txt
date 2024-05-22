@@ -2,7 +2,7 @@
 ======================================================================
 ======================================================================
  Welcome to the NW Python Debugging Information Utility!
- Date and Time: 2024-05-21 at 07:34 PM
+ Date and Time: 2024-05-21 at 07:37 PM
  Operating System: nt Windows 10
  System Architecture: 64bit
  Number of CPUs: 12
@@ -12,11 +12,11 @@
  Python Implementation: CPython
  Active pip environment:   None
  Active conda environment: None
- Path to Interpreter:         C:\Users\Hayley\Documents\streaming-04-multiple-consumers\.venv\Scripts\python.exe
- Path to virtual environment: C:\Users\Hayley\Documents\streaming-04-multiple-consumers\.venv
+ Path to Interpreter:         C:\Program Files\python.exe
+ Path to virtual environment: C:\Program Files
  Current Working Directory:   C:\Users\Hayley\Documents\streaming-04-multiple-consumers
- Path to source directory:    c:\Users\Hayley\Documents\streaming-04-multiple-consumers
- Path to script file:         c:\Users\Hayley\Documents\streaming-04-multiple-consumers\util_about.py
+ Path to source directory:    C:\Users\Hayley\Documents\streaming-04-multiple-consumers
+ Path to script file:         C:\Users\Hayley\Documents\streaming-04-multiple-consumers\util_about.py
  User's Home Directory:       C:\Users\Hayley
  Terminal Environment:        VS Code
  Terminal Type:               
