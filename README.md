@@ -61,3 +61,11 @@ Which worker gets which tasks?
 ## Screenshot
 
 See a running example with at least 3 concurrent process windows here:
+
+![Multiple Terminals](<Img/csv task multiple tasks multiple terminals.png>)
+
+![csv](<Img/csv task multiple tasks.png>)
+
+![task 1](<Img/Executed task 1_task 2.png>)
+
+![terminals](<Img/mulitple terminals v1.png>)
